@@ -4,6 +4,7 @@ Breast Cancer Prediction is a classification task aimed at predicting the diagno
 The dataset contains the following information for each instance:
 
 1.ID number: A unique identifier for each sample.
+
 2.Diagnosis: The target variable indicating the diagnosis, where 'M' represents malignant and 'B' represents benign.
 
 For each cell nucleus, ten real-valued features are computed, which are:
